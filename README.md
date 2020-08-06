@@ -8,7 +8,7 @@ Proffy é uma plataforma de estudo on-line criada durante a Next Level Week #2 <
 
 - [TypeScript](https://www.typescriptlang.org) - O TypeScript estende o JavaScript adicionando tipos.
 - [ReactJs](https://reactjs.org) - Uma biblioteca JavaScript para criação de aplicações web.
-- [React Router Dom](https://reactrouter.com/) - É uma coleção de componentes de navegação que compõem declarativamente o seu aplicativo.
+- [React Router Dom](https://reactrouter.com/) - Uma coleção de componentes de navegação que compõem declarativamente o seu aplicativo.
 - [ESlint](https://eslint.org) - ESLint analisa estaticamente seu código para encontrar rapidamente problemas.
 - [Prettier](https://prettier.io/docs/en/cli.html) - Um formatador de código opinativo
 
@@ -30,7 +30,7 @@ _and_
 npm start
 ```
 
-## Contribution
+## Contribuição
 
 Você pode enviar quantos PR's deseja, ficarei feliz em analisá-los e aceitá-los! 
 
