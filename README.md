@@ -4,15 +4,15 @@
 
 ## 🚀 O que é a NLW?
 
-Next Level Week é um evento de uma semana com muito código, desafios, networking. </br> Seu propósito é desenvolver uma aplicação do mundo real fornecida pela RocketSeat, nessa edição foi desenvolvido o Proffy.
+Next Level Week é um evento de uma semana com muito código, desafios, networking. </br> Seu propósito é desenvolver uma aplicação do mundo real fornecida pela RocketSeat, nessa </br> edição foi desenvolvido o Proffy.
 
 <div align='center'>
-<img src=".github/logo.svg" width='250'>
+<img src=".github/logo.svg" width='200'>
 </div>
 
 # 📚 Proffy
 
-O Proffy é uma plataforma de estudos on-line, onde alunos podem se conectar com professores com o objetivo de ter aulas on-line.
+O Proffy é uma plataforma de estudos on-line, onde alunos podem se conectar com professores </br> com o objetivo de ter aulas on-line.
 
 <div align='center'>
 <img src=".github/thumbnail.png">
