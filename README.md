@@ -23,11 +23,11 @@ O Proffy é uma plataforma de estudos on-line, onde alunos podem se conectar com
 Você pode visualizar o layout do projeto no Figma! Layout criado por [Tiago Luchtenberg](https://www.linkedin.com/in/tiagoluchtenberg/).
 
 - [Layout do projeto web](https://www.figma.com/file/GHGS126t7WYjnPZdRKChJF/Proffy-Web)
-- [Layout do projeto mobile](https://www.figma.com/file/e33KvgUpFdunXxJjHnK7CG/Proffy-Mobile)
+
 
 ---
 
-# ⚙ Funcionalidades da API
+# ⚙ Funcionalidades
 
 - Contagem de conexões realizadas na plataforma;
 - Listagem de professores disponíveis por disciplina;
@@ -56,9 +56,7 @@ Você pode visualizar o layout do projeto no Figma! Layout criado por [Tiago Luc
 <br/>
 <a href='https://nodejs.org/en/download/'>Node.js</a>
 <br/>
-<a href='https://nodejs.org/en/download/'>React Native</a>
-<br/>
-<a href='https://reactrouter.com/web/guides/'>React Router</a>
+<a href='https://reactrouter.com/web/guides/'>React Router DOM</a>
 <br/>
 
 ## 🤔 Como contribuir
